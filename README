@@ -1,0 +1,3 @@
+This is a recreation of the R script created during my Comcast internship. The point of the script was to get data from
+CSVs received from JIRA intakes. Then the script would place them into a new CSV that gave all the wanted information.
+This allowed me to cut down on a lot of manual input by just placing it in this script.
